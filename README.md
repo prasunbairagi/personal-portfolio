@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# Personal Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This portfolio project is bootstrapped with React.js and bootstrap.\
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory\
+First of all you run :\
+**npm install**\
+to install all the dependencies and packages
+
+After that you can run:
 
 ### `npm start`
 
